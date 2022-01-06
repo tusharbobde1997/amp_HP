@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.0",
+  "appInfo": {
+    "name": "Company",
+    "description": "This application is made from nodejs at backend and reactjs with typescript at fronted",
+    "version": "nn1f8ose",
+    "id": "ckxycyyvf93099701s6x7akuzho",
+    "url": "https://app.amplication.com/ckxycyyvf93099701s6x7akuzho",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "amardb",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckxycyyvf93099701s6x7akuzho",
+      "authProvider": "Jwt"
+    }
+  }
+}
